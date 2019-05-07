@@ -23,6 +23,7 @@ These are some general best practices to encourage your students to do during th
 5. Make sure you are handling any edge cases (if you aren't, acknowledge these edge cases to demonstrate that you have thought about it.)
 6. Refactor your solution!
 7. Include a README - your documentation should include what your code will do, how to run your code and the technologies you've used. You can also talk about the problems you ran into, why you took the approach you did, what you might do differently or additionally if you had more time.
+8. The final result should be easy to run and/or follow. Someone should not have to execute 10 different commands/steps to get your code running on their machine. 
 
 ### Additional tips for Pairing Interview
 
